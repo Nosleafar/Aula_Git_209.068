@@ -1,0 +1,13 @@
+Crie um algorítimo para mostrar o resultado da soma de 2 números:
+
+1 - Definir o valor do primeiro número
+2 - Definir o valor do segundo número
+3 - Realizar a soma de ambos os valores
+4 - Obtenção do resultado
+
+
+Crie um algorítimo para determinar o tipo de um caractere (letra ou número)
+1 - Definir uma classificação para "Número" (0 a 9)
+2 - Definir uma classificação para "Letra" (a - z)
+3 - Executar o comando (se 0-9 = Número / se a - z = letra)
+4 - Fim
