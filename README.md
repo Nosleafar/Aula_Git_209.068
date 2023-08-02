@@ -24,10 +24,6 @@ Exemplos básico de Markdown:
 Essa é uma maneira simples de deixar o texto **negrito** e palavras *itálicas* com Markdown.
 
 
-### Prioridades nos estudos
-1. Estudar
-2. Praticar
-3. Revisar
 
 > Eu sou um bloco de citação (blockquotes)
 
