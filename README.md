@@ -2,9 +2,9 @@
 O que é README e porque é tão importante
 github
 •
-7 de Jul de 2020
 
-O assunto aqui vai ser sobre o famoso README: vamos descobrir, na prática, o que é o Markdown e também esclarecer o motivo desse arquivo ser tão importante no projeto, e quais as vantagens de ter um bom README. No final vamos disponibilizar alguns links para te inspirar a escrever.
+
+O assunto aqui vai ser sobre o famoso README: vamos descobrir, na prática, o que é o Markdown e também esclarecer o motivo desse arquivo ser tão importante no projeto, e quais as vantagens de ter um bom README.
 
 📝 O que é o README?
 README.md é um arquivo com extensão .md (Markdown). Contém informações necessárias para entender o objetivo do projeto. README é uma palavra em inglês que traduzida fica LEIAME.
