@@ -18,7 +18,7 @@ O Markdown é uma ferramenta de conversão de texto em HTML. Você escreve usand
 
 Markdown foi criado por John Gruber e Aaron Swartz e seu código fonte foi escrito em Perl. O site oficial é esse aqui.
 
-Exemplos básico de Markdown:
+
 
 ## Isso é equivalente ao h2 do html, usado para título
 Essa é uma maneira simples de deixar o texto **negrito** e palavras *itálicas* com Markdown.
