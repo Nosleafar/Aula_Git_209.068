@@ -24,11 +24,6 @@ Exemplos básico de Markdown:
 Essa é uma maneira simples de deixar o texto **negrito** e palavras *itálicas* com Markdown.
 
 
-### Lista de todo:
-- Estudar Node
-- Estudar React 
-- Estudar React Native
-
 ### Prioridades nos estudos
 1. Estudar
 2. Praticar
