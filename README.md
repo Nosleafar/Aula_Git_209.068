@@ -22,7 +22,7 @@ Exemplos básico de Markdown:
 
 ## Isso é equivalente ao h2 do html, usado para título
 Essa é uma maneira simples de deixar o texto **negrito** e palavras *itálicas* com Markdown.
-Como é fácil fazer um link para um site: [link p/ Blog da Rocketseat!](https://blog.rocketseat.com.br/)
+
 
 ### Lista de todo:
 - Estudar Node
